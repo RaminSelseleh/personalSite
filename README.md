@@ -1,6 +1,6 @@
 # raminsel.github.io
 
-My personal site: cloud and AI work, experience, side projects, and what I do off the clock.
+My personal site
 
 Live at **https://raminsel.github.io**
 
