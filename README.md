@@ -2,7 +2,6 @@
 
 My personal site
 
-Live at **https://raminsel.github.io**
 
 ## Structure
 
